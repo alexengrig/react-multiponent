@@ -1,0 +1,58 @@
+{
+  "name": "react-multiponent",
+  "version": "0.1.0",
+  "description": "React Multi Component",
+  "keywords": [
+    "react",
+    "component"
+  ],
+  "homepage": "https://github.com/alexengrig/react-multiponent",
+  "bugs": {
+    "email": "alexengrigdev@gmail.com"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "alexengrig",
+    "email": "alexengrigdev@gmail.com",
+    "url": "https://github.com/alexengrig"
+  },
+  "files": [
+    "package.json"
+  ],
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexengrig/react-multiponent.git"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "3.0.1"
+  },
+  "os": [
+    "darwin",
+    "linux"
+  ],
+  "private": true,
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
